@@ -24,7 +24,7 @@ Em Linux/macOS: execute `node server.mjs` na pasta do projeto.
 
 - Execute o servidor em apenas um computador e mantenha-o ligado.
 - No Windows, use `ipconfig` para localizar o IPv4 do computador.
-- Os demais acessam `http://IP-DO-COMPUTADOR:3000` no navegador. Exemplo: `http://192.168.1.10:3000`.
+- Os demais acessam `http://IP-DO-COMPUTADOR:3000` no navegador. Exemplo: `http://xxx.xxx.x.xx:3000`.
 - Se solicitado pelo Windows, permita o Node.js na rede privada.
 - Um jogador cria a sala; os outros digitam seu código. O anfitrião inicia quando todos os lugares estiverem preenchidos.
 - Bots podem completar lugares livres antes de começar.
